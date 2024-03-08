@@ -1,0 +1,13 @@
+h1{
+    background-color: mediumvioletred;
+}
+p{
+    color: brown;
+}
+.sectionGallery{
+    display: flex;
+ 
+}
+#ban{
+    width: 100%;
+}
